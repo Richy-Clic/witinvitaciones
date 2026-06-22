@@ -8,7 +8,7 @@ export const siteConfig = {
     defaultMessage:
       'Hola, me interesa crear una invitación digital con Witinvitaciones. ¿Me pueden dar más información?',
   },
-  email: 'hola@witinvitaciones.com',
+  email: 'creativo@witinvitaciones.com',
   social: {
     instagram: 'https://instagram.com/witinvitaciones',
     facebook: 'https://facebook.com/witinvitaciones',
