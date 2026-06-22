@@ -4,7 +4,7 @@ export const siteConfig = {
   description:
     'Diseños elegantes, confirmación de asistencia y toda la información de tu evento en un solo lugar.',
   whatsapp: {
-    phone: '5215512345678',
+    phone: '523314430561',
     defaultMessage:
       'Hola, me interesa crear una invitación digital con Witinvitaciones. ¿Me pueden dar más información?',
   },

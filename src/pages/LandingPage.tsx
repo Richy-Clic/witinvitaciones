@@ -7,7 +7,7 @@ import { CTASection } from '../components/sections/CTASection'
 import { DesignsSection } from '../components/sections/DesignsSection'
 import { HeroSection } from '../components/sections/HeroSection'
 import { HowItWorksSection } from '../components/sections/HowItWorksSection'
-import { TestimonialsSection } from '../components/sections/TestimonialsSection'
+// import { TestimonialsSection } from '../components/sections/TestimonialsSection'
 
 export function LandingPage() {
   return (
@@ -18,7 +18,7 @@ export function LandingPage() {
         <BenefitsSection />
         <DesignsSection />
         <HowItWorksSection />
-        <TestimonialsSection />
+        {/* <TestimonialsSection /> */}
         <CTASection />
         <ContactSection />
       </main>
